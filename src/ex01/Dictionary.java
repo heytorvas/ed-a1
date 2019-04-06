@@ -13,9 +13,10 @@ public class Dictionary
     public Dictionary()
     {
     }
-    public Dictionary(String word)
+    public Dictionary(String word, String definition)
     {
         this.word = word;
+        this.definition = definition;
     }
 
     public String getWord()

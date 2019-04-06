@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ex01/Dictionary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2304">
-              <caret line="111" column="13" lean-forward="true" selection-start-line="111" selection-start-column="13" selection-end-line="111" selection-end-column="13" />
+            <state relative-caret-position="288">
+              <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
               <folding>
                 <element signature="e#365#366#0" expanded="true" />
                 <element signature="e#392#393#0" expanded="true" />
@@ -44,8 +44,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/ex01/Main.java" />
-        <option value="$PROJECT_DIR$/src/ex01/Dictionary.java" />
         <option value="$PROJECT_DIR$/src/ex02/Person.java" />
+        <option value="$PROJECT_DIR$/src/ex01/Dictionary.java" />
       </list>
     </option>
   </component>
@@ -141,16 +141,23 @@
       <workItem from="1554230172480" duration="23831000" />
       <workItem from="1554405178829" duration="3193000" />
       <workItem from="1554524936792" duration="981000" />
-      <workItem from="1554527877391" duration="1374000" />
+      <workItem from="1554527877391" duration="1614000" />
     </task>
+    <task id="LOCAL-00001" summary="Atualizacao Questao01">
+      <created>1554530165883</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554530165883</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29379000" />
+    <option name="totallyTimeSpent" value="29619000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14977308" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -217,6 +224,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Atualizacao Questao01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualizacao Questao01" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../Listas/src/principal/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -255,8 +266,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ex01/Dictionary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2304">
-          <caret line="111" column="13" lean-forward="true" selection-start-line="111" selection-start-column="13" selection-end-line="111" selection-end-column="13" />
+        <state relative-caret-position="288">
+          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
           <folding>
             <element signature="e#365#366#0" expanded="true" />
             <element signature="e#392#393#0" expanded="true" />
